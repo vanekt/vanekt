@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,jquery,html,css,scss,less,tailwind,emotion,styledcomponents,bootstrap,figma,svg,nodejs,express,fastapi,go,php,laravel,wordpress,vite,webpack,rollup,gulp,npm,yarn,pnpm,babel,jest,postgres,mysql,sqlite,redis,rabbitmq,docker,nginx,postman,aws,supabase,vscode,git" />
 -->
 
 
@@ -23,11 +25,14 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Capable of implementing everything related to frontend: web applications of any complexity, libraries, widgets, browser extensions, cross-platform mobile apps.
 - Extensive experience in backend development & server configuration.
 
-### My tech skills:
-- JavaScript, TypeScript, React, React Native, Next.js, Jotai, TanStack Query, Zustand, Redux, Saga, Thunk, CRA, SSR, SSG, jQuery
-- HTML, CSS, SCSS, Tailwind, Chakra UI, Ant Design, Bootstrap, Atomic Design, Responsive design, Browser extensions development
+## My tech skills:
+![MySkills](https://skillicons.dev/icons?i=js,ts,react,html,css,go,nodejs,php,postgres,docker)
+
+
+- JavaScript, TypeScript, React, React Native, Next.js, Jotai, TanStack Query, Zustand, Redux, Saga, Thunk, jQuery
+- HTML, CSS, SCSS, Tailwind, Chakra UI, Ant Design, Bootstrap, Atomic Design, Responsive design, Browser extensions development, SSR, SSG
 - Node.js (Express, Fastify, Drizzle), Golang (net/http, gin, gorm, gorilla, easyjson), PHP (Laravel, CodeIgniter, Yii2)
-- Vite, webpack, rollup.js, Gulp, esbuild, npm, yarn, pnpm
+- Vite, CRA, webpack, rollup.js, Gulp, esbuild, npm, yarn, pnpm
 - Jest, Enzyme, sinon.js
 - PostgreSQL, MySQL, Tarantool, Redis, RabbitMQ, Kafka
 - REST, WebSocket, JSON-RPC, gRPC, GraphQL
@@ -35,3 +40,11 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Docker, Docker Compose, nginx, Traefik, Supabase, AWS (RDS, S3, EC2), Render.com, Expo, n8n
 - Git, Mercurial, Jira, redmine, shell
 - Cursor, Github Copilot, Claude, OpenAI, lovable.dev, bolt.new
+
+## Connect with me  
+<div>  
+<a href="https://t.me/vanekt0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/-ivan-tkachenko-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</div>  
+
+
