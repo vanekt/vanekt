@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Ivan. A'm seasoned full-stack engineer with extensive experience in frontend development.
+My name is Ivan. I'm seasoned full-stack engineer with extensive experience in frontend development.
 - 14 years of experience in commercial web development.
 - Proven track record of managing large-scale projects from concept to implementation.
 - Expertise in migrating complex projects from legacy stacks to modern technologies.
