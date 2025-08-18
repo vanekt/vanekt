@@ -35,8 +35,3 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Docker, Docker Compose, nginx, Traefik, Supabase, AWS (RDS, S3, EC2), Render.com, Expo, n8n
 - Git, Mercurial, Jira, redmine, shell
 - Cursor, Github Copilot, Claude, OpenAI, lovable.dev, bolt.new
-
-### Other skills:
-- Experience managing small teams (up to 5 members).
-- Adaptable to working with an emphasis on quality or on results, depending on the project requirements.
-- Always open to exploring new technologies and experimenting with innovative solutions.
