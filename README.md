@@ -23,7 +23,7 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Capable of implementing everything related to frontend: web applications of any complexity, libraries, widgets, browser extensions, cross-platform mobile apps.
 - Extensive experience in backend development & server configuration.
 
-### My Tech Akills:
+### My tech skills:
 - JavaScript, TypeScript, React, React Native, Next.js, Jotai, TanStack Query, Zustand, Redux, Saga, Thunk, CRA, SSR, SSG, jQuery
 - HTML, CSS, SCSS, Tailwind, Chakra UI, Ant Design, Bootstrap, Atomic Design, Responsive design, Browser extensions development
 - Node.js (Express, Fastify, Drizzle), Golang (net/http, gin, gorm, gorilla, easyjson), PHP (Laravel, CodeIgniter, Yii2)
