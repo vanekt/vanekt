@@ -26,10 +26,10 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Extensive experience in backend development & server configuration.
 
 ## My tech skills:
-![MySkills](https://skillicons.dev/icons?i=js,ts,react,html,css,go,nodejs,php,postgres,docker)
+![MySkills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,go,nodejs,php,postgres,docker)
 
 
-- JavaScript, TypeScript, React, React Native, Next.js, Jotai, TanStack Query, Zustand, Redux, Saga, Thunk, jQuery
+- JavaScript, TypeScript, React, Vue, React Native, Next.js, Jotai, TanStack Query, Zustand, Pinia, Redux, Saga, Thunk, jQuery
 - HTML, CSS, SCSS, Tailwind, Chakra UI, Ant Design, Bootstrap, Atomic Design, Responsive design, Browser extensions development, SSR, SSG
 - Node.js (Express, Fastify, Drizzle), Golang (net/http, gin, gorm, gorilla, easyjson), PHP (Laravel, CodeIgniter, Yii2)
 - Vite, CRA, webpack, rollup.js, Gulp, esbuild, npm, yarn, pnpm
