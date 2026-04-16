@@ -25,6 +25,8 @@ My name is Ivan. I'm seasoned full-stack engineer with extensive experience in f
 - Capable of implementing everything related to frontend: web applications of any complexity, libraries, widgets, browser extensions, cross-platform mobile apps.
 - Extensive experience in backend development & server configuration.
 
+## My CV here: [https://vanekt.github.io/](https://vanekt.github.io/)
+
 ## My tech skills:
 ![MySkills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,go,nodejs,php,postgres,docker)
 
