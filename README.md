@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,jquery,html,css,scss,less,tailwind,emotion,styledcomponents,bootstrap,figma,svg,nodejs,express,fastapi,go,php,laravel,wordpress,vite,webpack,rollup,gulp,npm,yarn,pnpm,babel,jest,postgres,mysql,sqlite,redis,rabbitmq,docker,nginx,postman,aws,supabase,vscode,git" />
 -->
 
+My name is Ivan. Full-stack engineer with 14 years in commercial web development, focused on frontend.
 
-My name is Ivan. I'm seasoned full-stack engineer with extensive experience in frontend development.
-- 14 years of experience in commercial web development.
-- Proven track record of managing large-scale projects from concept to implementation.
-- Expertise in migrating complex projects from legacy stacks to modern technologies.
-- Capable of implementing everything related to frontend: web applications of any complexity, libraries, widgets, browser extensions, cross-platform mobile apps.
-- Extensive experience in backend development & server configuration.
+- 14 years of commercial web development experience.
+- Led large-scale projects end-to-end, from concept to production.
+- Hands-on experience migrating complex projects from legacy stacks to modern technologies.
+- Frontend across the board: web apps of any complexity, libraries, widgets, browser extensions, cross-platform mobile apps.
+- Solid backend development and server configuration experience.
 
 ## My CV here: [https://vanekt.github.io/](https://vanekt.github.io/)
 
